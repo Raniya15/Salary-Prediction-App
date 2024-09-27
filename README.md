@@ -5,7 +5,7 @@ Interactive app, with UI powered by Streamlit, to predict software developer sal
 
 - **User Input**: Collects user data for country, education level, and years of experience.
 - **Salary Prediction**: Uses a trained Random Forest model to predict the salary.
-- **Data Visualization**: Includes pie charts and line graphs for country-wise data distribution and salary trends.
+- **Data Visualization**: Includes pie chart, bar graph and line graph for country-wise data distribution and salary trends.
 - **Interactive UI**: Simple and easy-to-use interface built with Streamlit.
 
 ## Tech Stack
